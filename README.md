@@ -1,4 +1,9 @@
-# interactor [![crates.io](https://img.shields.io/crates/v/interactor.svg)](https://crates.io/crates/interactor) [![Build Status](https://img.shields.io/travis/myfreeweb/interactor.svg?style=flat)](https://travis-ci.org/myfreeweb/interactor) [![API Docs](https://img.shields.io/badge/api-docs-yellow.svg?style=flat)](https://myfreeweb.github.io/autodocs/interactor/interactor) [![unlicense](https://img.shields.io/badge/un-license-green.svg?style=flat)](http://unlicense.org)
+[![crates.io](https://img.shields.io/crates/v/interactor.svg)](https://crates.io/crates/interactor)
+[![API Docs](https://docs.rs/interactor/badge.svg)](https://docs.rs/interactor/)
+[![Build Status](https://img.shields.io/travis/myfreeweb/interactor.svg?style=flat)](https://travis-ci.org/myfreeweb/interactor)
+[![unlicense](https://img.shields.io/badge/un-license-green.svg?style=flat)](http://unlicense.org)
+
+# interactor
 
 A [Rust] library for simple (usually command-line) user interaction.
 
