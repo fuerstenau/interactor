@@ -19,6 +19,8 @@ A [Rust] library for simple (usually command-line) user interaction.
 
 A program that accepts a newline-separated list of items on `stdin`, presents a UI to the user (directly on `/dev/tty` if it's a CLI; can also be a GUI), and outputs the selected item on `stdout`.
 
+- [fzy](https://github.com/jhawthorn/fzy) (C)
+- [pick](https://github.com/mptre/pick) (C)
 - [fzf](https://github.com/junegunn/fzf) (Go)
 - [peco](https://github.com/peco/peco) (Go)
 - [percol](https://github.com/mooz/percol) (Python)
